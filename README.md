@@ -24,3 +24,5 @@ can be on any web server or even local
 file system.
 
 ## How To Contribute
+
+2021 Nightcry. All rights reserved.
